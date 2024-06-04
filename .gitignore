@@ -1,0 +1,48 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+ENV/
+env/
+.venv/
+
+
+# Environments
+.env
+.env.*
+.venv
+venv/
+env/
+ENV/
+.envrc
+*.env
+
+
+# FastAPI related
+*.log
+
+# Docker
+*.env
+Dockerfile
+
+# Terraform
+*.tfstate
+*.tfstate.*
+.terraform/
+crash.log
+override.tf
+override.tf.json
+terraform.tfvars
+terraform.tfvars.json
+*.tfvars
+*.tfvars.json
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
